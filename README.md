@@ -1,8 +1,3 @@
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-csharp-line colored"></i>
 <h1 align="center">Hi, I'm Phil 👨‍💻</h1>
 
 <h3 align="center">Programming rookie and movie buff</h3>
@@ -22,3 +17,4 @@
 <h3 align="left">How to reach out to me:</h3>
 
 <h3 align="left">Technologies and langugages I dived into:</h3>
+<img src="\icons\c-original.svg" alt="C">

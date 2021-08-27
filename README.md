@@ -23,6 +23,7 @@
 <img src="icons\python-original.svg" alt="python" width="50" height="50">
 <img src="icons\java-original-wordmark.svg" alt="java" width="50" height="50">
 <img src="icons\javascript-original.svg" alt="javascript" width="50" height="50">
+<img src="icons\css3-original-wordmark.svg" alt="css" width="50" height="50">
 <img src="icons\mysql-original-wordmark.svg" alt="mySQL" width="50" height="50">
 </div>
 <div>

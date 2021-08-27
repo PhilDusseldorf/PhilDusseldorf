@@ -17,17 +17,21 @@
 <h3 align="left">How to reach out to me:</h3>
 
 <h3 align="left">Technologies and langugages I dived into:</h3>
+<div>
 <img src="icons\csharp-original.svg" alt="C-Sharp" width="50" height="50">
 <img src="icons\c-original.svg" alt="C" width="50" height="50">
 <img src="icons\python-original.svg" alt="python" width="50" height="50">
 <img src="icons\java-original-wordmark.svg" alt="java" width="50" height="50">
 <img src="icons\javascript-original.svg" alt="javascript" width="50" height="50">
 <img src="icons\mysql-original-wordmark.svg" alt="mySQL" width="50" height="50">
-<p></p>
+</div>
+<div>
 <img src="icons\github-original-wordmark.svg" alt="github" width="50" height="50">
 <img src="icons\vscode-original.svg" alt="vscode" width="50" height="50">
 <img src="icons\unity-original-wordmark.svg" alt="unity" width="50" height="50">
 <img src="icons\git-original-wordmark.svg" alt="git" width="50" height="50">
-<p></p>
+</div>
+<div>
 <img src="icons\premierepro-original.svg" alt="premierePro" width="50" height="50">
 <img src="icons\photoshop-line.svg" alt="photoshop" width="50" height="50">
+</div>

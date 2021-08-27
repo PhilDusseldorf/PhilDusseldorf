@@ -17,4 +17,4 @@
 <h3 align="left">How to reach out to me:</h3>
 
 <h3 align="left">Technologies and langugages I dived into:</h3>
-<img src="\icons\c-original.svg" alt="C">
+<img src="icons\c-original.svg" alt="C">

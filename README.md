@@ -1,3 +1,10 @@
+<script>
+img
+{
+    width="50";
+    height="50";
+}
+</script>
 <h1 align="center">Hi, I'm Phil 👨‍💻</h1>
 
 <h3 align="center">Programming rookie and movie buff</h3>

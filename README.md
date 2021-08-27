@@ -1,10 +1,3 @@
-<script>
-img
-{
-    width="50";
-    height="50";
-}
-</script>
 <h1 align="center">Hi, I'm Phil 👨‍💻</h1>
 
 <h3 align="center">Programming rookie and movie buff</h3>
@@ -24,17 +17,17 @@ img
 <h3 align="left">How to reach out to me:</h3>
 
 <h3 align="left">Technologies and langugages I dived into:</h3>
-<img src="icons\csharp-original.svg" alt="C-Sharp">
-<img src="icons\c-original.svg" alt="C">
-<img src="icons\python-original.svg" alt="python">
-<img src="icons\java-original-wordmark.svg" alt="java">
-<img src="icons\javascript-original.svg" alt="javascript">
-<img src="icons\mysql-original-wordmark.svg" alt="mySQL">
+<img src="icons\csharp-original.svg" alt="C-Sharp" width="50" height="50">
+<img src="icons\c-original.svg" alt="C" width="50" height="50">
+<img src="icons\python-original.svg" alt="python" width="50" height="50">
+<img src="icons\java-original-wordmark.svg" alt="java" width="50" height="50">
+<img src="icons\javascript-original.svg" alt="javascript" width="50" height="50">
+<img src="icons\mysql-original-wordmark.svg" alt="mySQL" width="50" height="50">
 <p></p>
-<img src="icons\github-original-wordmark.svg" alt="github">
-<img src="icons\vscode-original.svg" alt="vscode">
-<img src="icons\unity-original-wordmark.svg" alt="unity">
-<img src="icons\git-original-wordmark.svg" alt="git">
+<img src="icons\github-original-wordmark.svg" alt="github" width="50" height="50">
+<img src="icons\vscode-original.svg" alt="vscode" width="50" height="50">
+<img src="icons\unity-original-wordmark.svg" alt="unity" width="50" height="50">
+<img src="icons\git-original-wordmark.svg" alt="git" width="50" height="50">
 <p></p>
-<img src="icons\premierepro-original.svg" alt="premierePro">
-<img src="icons\photoshop-line.svg" alt="photoshop">
+<img src="icons\premierepro-original.svg" alt="premierePro" width="50" height="50">
+<img src="icons\photoshop-line.svg" alt="photoshop" width="50" height="50">

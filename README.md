@@ -17,4 +17,17 @@
 <h3 align="left">How to reach out to me:</h3>
 
 <h3 align="left">Technologies and langugages I dived into:</h3>
-<img src="icons\c-original.svg" alt="C">
+<img src="icons\csharp-original.svg" alt="C-Sharp" style="width:100px;height:100px;">
+<img src="icons\c-original.svg" alt="C" style="width:100px;height:100px;">
+<img src="icons\python-original.svg" alt="python" style="width:100px;height:100px;">
+<img src="icons\java-original-wordmark.svg" alt="java" style="width:100px;height:100px;">
+<img src="icons\javascript-original.svg" alt="javascript" style="width:100px;height:100px;">
+<img src="icons\mysql-original-wordmark.svg" alt="mySQL" style="width:100px;height:100px;">
+<p></p>
+<img src="icons\github-original-wordmark.svg" alt="github" style="width:100px;height:100px;">
+<img src="icons\vscode-original.svg" alt="vscode" style="width:100px;height:100px;">
+<img src="icons\unity-original-wordmark.svg" alt="unity" style="width:100px;height:100px;">
+<img src="icons\git-original-wordmark.svg" alt="git" style="width:100px;height:100px;">
+<p></p>
+<img src="icons\premierepro-original.svg" alt="premierePro" style="width:100px;height:100px;">
+<img src="icons\photoshop-line.svg" alt="photoshop" style="width:100px;height:100px;">

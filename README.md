@@ -14,8 +14,6 @@
 <li>⚡ Fun fact: proud father of two children 👶👱‍♀️</li>
 </ul>
 
-<h3 align="left">How to reach out to me:</h3>
-
 <h3 align="left">Technologies and langugages I dived into:</h3>
 <div>
 <img src="icons\csharp-original.svg" alt="C-Sharp" width="50" height="50">

@@ -9,20 +9,21 @@
 <h3 align="left">Simple facts:</h3>
 <ul>
 <li>🔭 I’m currently working on getting my IT Specialist(Application Development) / Fachinformatiker(Anwendungsentwicklung)</li>
-<li>🌱 I’m currently learning: java</li>
+<li>🌱 I’m currently learning: typeScript</li>
 <li>💬 Ask me about: movies, animation, comics and 🍕</li>
 <li>⚡ Fun fact: proud father of two children 👶👱‍♀️</li>
 </ul>
 
 <h3 align="left">Technologies and langugages I dived into:</h3>
 <div>
-<img src="icons\csharp-original.svg" alt="C-Sharp" width="50" height="50">
-<img src="icons\c-original.svg" alt="C" width="50" height="50">
-<img src="icons\python-original.svg" alt="python" width="50" height="50">
 <img src="icons\java-original-wordmark.svg" alt="java" width="50" height="50">
+<img src="icons\csharp-original.svg" alt="C-Sharp" width="50" height="50">
+<img src="icons\typescript.svg" alt="typescript" width="50" height="50">
+<img src="icons\python-original.svg" alt="python" width="50" height="50">
 <img src="icons\javascript-original.svg" alt="javascript" width="50" height="50">
 <img src="icons\css3-original-wordmark.svg" alt="css" width="50" height="50">
 <img src="icons\mysql-original-wordmark.svg" alt="mySQL" width="50" height="50">
+<img src="icons\c-original.svg" alt="C" width="50" height="50">
 </div>
 <div>
 <img src="icons\github-original-wordmark.svg" alt="github" width="50" height="50">
